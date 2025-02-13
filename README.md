@@ -1,7 +1,6 @@
 # YouTube Analytics Desktop
 
 Project Summary: https://www.linkedin.com/in/mj-yuan-786678324/details/projects/
-
 A desktop-style GUI tool for analyzing YouTube channel data using the YouTube Analytics API. This application provides a user-friendly interface built with Tkinter, allowing you to run analytics and view both log outputs and embedded Matplotlib plots.
 ![Application Screenshot](screenshot.png)
 ## Features
